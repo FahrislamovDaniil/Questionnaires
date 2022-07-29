@@ -1,12 +1,12 @@
 # Questionnaires
 For demonstration purposes:
 
-Application starting page is '/'
+Application starting page is '/'.
 
 Login information for the administrator:
-username: admin
+username: admin,
 password: admin
 
 Login information for the user example:
-username: user
+username: user,
 password: user
